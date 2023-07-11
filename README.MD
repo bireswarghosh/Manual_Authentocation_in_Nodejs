@@ -1,0 +1,1 @@
+ A complet set up of Manual Authentocation   in Nodejs	
